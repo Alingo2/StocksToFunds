@@ -1,0 +1,19 @@
+其中爬虫代码:
+funds_study.py(爬取所有基金)
+funds_sotck_transition.py（爬取基金对应的股票）
+爬取数据:
+funds_data.csv(它是funds_data1,2,3,4,5的合并)
+funds_stock_table.json
+格式转换代码:
+csv_to_json.py
+反爬深度学习：
+数字验证码识别.ipynb
+(其中验证会用到try1.png文件)
+深度学习模型文件:
+model_minist.h5
+Es索引建立：
+Es_index.py
+Es查询代码: (即实现功能代码)
+Es_search.py
+分词代码:
+divide.py
